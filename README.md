@@ -2,6 +2,8 @@ A simple user registration webapp.
 
 Stack: Vue.js, Firebase, Vuetify
 
+See <a href="http://capaly.nl/rik/user_registration/">demo here.</a>
+
 
 ## Build Setup
 
