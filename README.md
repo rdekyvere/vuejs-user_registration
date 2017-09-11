@@ -1,6 +1,7 @@
-# vueapp03
+A simple user registration webapp.
 
-> A Vue.js project
+Stack: Vue.js, Firebase, Vuetify
+
 
 ## Build Setup
 
